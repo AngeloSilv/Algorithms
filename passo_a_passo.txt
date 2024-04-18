@@ -1,0 +1,26 @@
+Definição das Estruturas (Structs) e Variáveis Globais:
+
+Crie a estrutura Item para representar os detalhes de cada item vendido.
+Defina as variáveis globais necessárias, como arrays para armazenar as vendas e o número de vendas.
+Funções Auxiliares:
+
+Função para calcular o preço pago na venda para cada item.
+Função para aplicar desconto de 10% para vendas com três ou mais unidades.
+Função para calcular o faturamento bruto diário.
+Função para identificar o item mais vendido e o item menos vendido.
+Cadastro de Vendas:
+
+Implemente o código para registrar as vendas, coletando os dados do usuário e armazenando na estrutura Item.
+Chame as funções auxiliares para calcular o preço pago na venda e aplicar descontos.
+Ordenação das Vendas:
+
+Implemente um algoritmo de ordenação para ordenar as vendas em ordem decrescente com base no valor total da venda.
+Relatórios Gerenciais:
+
+Implemente o código para gerar os relatórios no final do dia, exibindo as informações solicitadas.
+Manipulação de Arquivos:
+
+Implemente o código para gravar e ler os dados do arquivo “loja_roupa.dat”.
+Testes e Validação:
+
+Realize os testes com diferentes entradas de dados para validar o programa conforme os critérios estabelecidos.

@@ -1,0 +1,44 @@
+1.
+
+Desenvolver um PROGRAMA EM LIGUAGEM C, que permita registrar as vendas diárias
+de uma loja de roupas, imprimindo no final do dia, os seguintes relatórios:
+- Quantidade total de itens vendidos no dia;
+- Listar todas as vendas realizadas no dia, em ordem decrescente, ou seja, considerar a venda
+de maior valor prioritariamente, e assim por diante, até que todas sejam listadas;
+- Faturamento bruto diário sob as vendas;
+- Quantidade de clientes que realizaram compras naquele dia;
+- Item mais vendido;
+- Item menos vendido.
+
+2.
+
+Cadastrar os seguintes dados por venda realizada: código do item, nome do item, marca do
+item, quantidade de itens e preço unitário do item;
+✓ Após cada entrada de novo item, o programa deverá chamar uma função para calcular
+automaticamente o preço pago na venda realizada para cada item registrado;
+✓ O programa deverá atribuir um desconto de 10% do valor total da venda realizada para cada
+item, sempre que a quantidade de itens vendidos for maior ou igual a três unidades;
+✓ O programa também deverá calcular automaticamente a quantidade de clientes que
+realizaram compras naquele dia.
+
+3.
+
+No final do dia, ou seja, quando não tiverem novos clientes a serem registrados, o programa
+deverá ser finalizado, gerando os seguintes Relatórios Gerenciais:
+- Quantidade total de itens vendidos no dia;
+- Listar todas as vendas realizadas no dia, em ordem decrescente, ou seja, considerar a venda
+de maior valor prioritariamente, e assim por diante, até que todas sejam listadas;
+- Faturamento bruto diário sob as vendas;
+- Quantidade de clientes que realizaram compras naquele dia;
+- Item mais vendido;
+- Item menos vendido.
+
+4.
+
+Utilizar struct, array, algoritmo de ordenação, funções, modularização.
+2. gravar os dados no arquivo “loja_roupa.dat”.
+3. implementar a solução algorítmica em linguagem C.
+4. Apresentar os testes realizados, ou seja, inserir os valores de entrada e mostrar os resultados
+obtidos (saída).
+5. Para que seja validado o critério 4, será necessário realizar, ao menos três testes com
+entrada de dados distintas para cada um deles.

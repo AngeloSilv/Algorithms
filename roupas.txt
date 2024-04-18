@@ -1,0 +1,22 @@
+
+    {1, "Camiseta", "MarcaA", 5, 50.0},
+    {2, "Calça Jeans", "MarcaB", 3, 120.0},
+    {3, "Blusa", "MarcaC", 2, 80.0},
+    {4, "Shorts", "MarcaD", 4, 60.0},
+    {5, "Vestido", "MarcaE", 1, 150.0},
+    {6, "Sapato", "MarcaF", 3, 200.0},
+    {7, "Bolsa", "MarcaG", 2, 90.0},
+    {8, "Cinto", "MarcaH", 5, 30.0},
+    {9, "Camisa Social", "MarcaI", 3, 100.0},
+    {10, "Saia", "MarcaJ", 2, 70.0},
+    {11, "Tênis", "MarcaK", 4, 180.0},
+    {12, "Meia", "MarcaL", 6, 10.0},
+    {13, "Boné", "MarcaM", 3, 50.0},
+    {14, "Óculos de Sol", "MarcaN", 2, 100.0},
+    {15, "Relógio", "MarcaO", 1, 250.0},
+    {16, "Pulseira", "MarcaP", 4, 40.0},
+    {17, "Brinco", "MarcaQ", 5, 20.0},
+    {18, "Colar", "MarcaR", 2, 60.0},
+    {19, "Lenço", "MarcaS", 3, 25.0},
+    {20, "Chapéu", "MarcaT", 2, 45.0}
+
